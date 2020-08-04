@@ -12,6 +12,7 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [<img align="left" alt="PHP" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/php/php.svg" />][phpweb]
 [<img align="left" alt="MariaDB" height="26px" src="https://www.mvps.net/docs/wp-content/uploads/2019/02/MariaDB.png" />][mariadbwebweb]
 [<img align="left" alt="HTML" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.svg" />][htmlweb]
+[<img align="left" alt="SCSS" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />][scssweb]
 [<img align="left" alt="Javascript" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript.svg" />][javascriptweb]
 [<img align="left" alt="Python" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python.svg" />][pythonweb]
 [<img align="left" alt="C++" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/cpp/cpp.svg" />][cppweb]
@@ -27,6 +28,7 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [phpweb]: https://www.php.net/ 
 [mariadbwebweb]: https://mariadb.org/
 [htmlweb]: https://www.w3.org/html/
+[scssweb]: https://sass-lang.com/
 [javascriptweb]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [pythonweb]: https://www.python.org/
 [cppweb]: https://www.cplusplus.com/
