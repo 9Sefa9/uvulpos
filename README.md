@@ -19,6 +19,7 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [<img align="left" alt="Java" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java.svg" />][javaweb]
 [<img align="left" alt="Git" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" />][gitweb]
 [<img align="left" alt="GitHub" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />][githubweb]
+[<img align="left" alt="Gitea" height="26px" src="https://docs.gitea.io/images/gitea.png" />][giteaweb]
 [<img align="left" alt="Linux" height="26px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" />][linuxweb]
 [<img align="left" alt="Docker" height="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />][dockerweb]
 
@@ -32,5 +33,6 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [javaweb]: https://www.java.com/
 [gitweb]: https://git-scm.com/
 [githubweb]: https://github.com/
+[giteaweb]: https://gitea.io/en-us/
 [linuxweb]: https://github.com/torvalds/linux
 [dockerweb]: https://www.docker.com/
