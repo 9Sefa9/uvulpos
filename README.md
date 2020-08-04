@@ -25,6 +25,7 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [<img align="left" alt="Docker" height="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />][dockerweb]
 [<img align="left" alt="Atom" height="26px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />][atomweb]
 [<img align="left" alt="Affinity" height="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Affinity_Photo_logo_new.png/220px-Affinity_Photo_logo_new.png" />][affinityweb]
+[<img align="left" alt="Discord" height="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />][discordweb]
 
 [phpweb]: https://www.php.net/ 
 [mariadbwebweb]: https://mariadb.org/
@@ -42,3 +43,4 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [dockerweb]: https://www.docker.com/
 [atomweb]: https://atom.io/ 
 [affinityweb]: https://affinity.serif.com/en-gb/photo/
+[discordweb]: https://discord.com/
