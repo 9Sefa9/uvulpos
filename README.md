@@ -24,6 +24,8 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [<img align="left" alt="Linux" height="26px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" />][linuxweb]
 [<img align="left" alt="Docker" height="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />][dockerweb]
 [<img align="left" alt="Atom" height="26px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />][atomweb]
+[<img align="left" alt="Intelij" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/2000px-IntelliJ_IDEA_Logo.svg.png" />][intelijweb]
+[<img align="left" alt="PyCharm" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />][pycharmweb]
 [<img align="left" alt="Affinity" height="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Affinity_Photo_logo_new.png/220px-Affinity_Photo_logo_new.png" />][affinityweb]
 [<img align="left" alt="Discord" height="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />][discordweb]
 
@@ -42,5 +44,7 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [linuxweb]: https://github.com/torvalds/linux
 [dockerweb]: https://www.docker.com/
 [atomweb]: https://atom.io/ 
+[intelijweb]: https://www.jetbrains.com/
+[pycharmweb]: https://www.jetbrains.com/
 [affinityweb]: https://affinity.serif.com/en-gb/photo/
 [discordweb]: https://discord.com/
