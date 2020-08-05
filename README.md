@@ -27,7 +27,6 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [<img align="left" alt="Intelij" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/2000px-IntelliJ_IDEA_Logo.svg.png" />][intelijweb]
 [<img align="left" alt="PyCharm" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />][pycharmweb]
 [<img align="left" alt="Affinity" height="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Affinity_Photo_logo_new.png/220px-Affinity_Photo_logo_new.png" />][affinityweb]
-[<img align="left" alt="Photoshop" height="26px" src="https://en.wikipedia.org/wiki/Adobe_Photoshop#/media/File:Adobe_Photoshop_CC_icon.svg" />][photoshopweb]
 [<img align="left" alt="Discord" height="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />][discordweb]
 
 [phpweb]: https://www.php.net/ 
@@ -48,5 +47,4 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [intelijweb]: https://www.jetbrains.com/
 [pycharmweb]: https://www.jetbrains.com/
 [affinityweb]: https://affinity.serif.com/en-gb/photo/
-[photoshopweb]: https://www.adobe.com/products/photoshop.html
 [discordweb]: https://discord.com/
