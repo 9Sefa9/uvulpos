@@ -32,13 +32,16 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [<img align="left" alt="Photoshop" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" />][photoshopweb]
 [<img align="left" alt="Discord" height="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />][discordweb]
 
-[githubfollowershield]: https://img.shields.io/github/followers/uvulpos?label=GitHub%20Follower&logo=GitHub&logoColor=%23ffffff&style=flat-square
-[discordshield]: https://img.shields.io/discord/530141674463035402?label=HelloCoding%20Discord&logo=Discord&logoColor=%23ffffff&style=flat-square
-
+<!-- eigene Links -->
 [mywebsite]: https://timriedl.com
 [githubprofile]: https://github.com/uvulpos/
 [hellocodingdiscordinvite]: https://discord.gg/gh3Wke
 
+<!-- shields.io/ -->
+[githubfollowershield]: https://img.shields.io/github/followers/uvulpos?label=GitHub%20Follower&logo=GitHub&logoColor=%23ffffff&style=flat-square
+[discordshield]: https://img.shields.io/discord/530141674463035402?label=HelloCoding%20Discord&logo=Discord&logoColor=%23ffffff&style=flat-square
+
+<!-- other links -->
 [phpweb]: https://www.php.net/ 
 [mariadbwebweb]: https://mariadb.org/
 [htmlweb]: https://www.w3.org/html/
