@@ -1,12 +1,12 @@
 ### Hi there 👋
 # My name is Tim Riedl and I'm a professional Developer
-[![GitHub followers](https://img.shields.io/github/followers/uvulpos?label=GitHub%20Follower&logo=GitHub&logoColor=%23ffffff&style=flat-square)](https://github.com/uvulpos/)
-[![Discord](https://img.shields.io/discord/530141674463035402?label=HelloCoding%20Discord&logo=Discord&logoColor=%23ffffff&style=flat-square)](https://discord.gg/gh3Wke)
+[![GitHub followers][githubfollowershield]][githubprofile]
+[![Discord][discordshield]][hellocodingdiscordinvite]
 
 In the last 10 years I have gained a lot of experience and now I want to start developing smaller open source projects. 
 
-- 🌍 [My website (in maintenance)](https://timriedl.com)
-- 💬 [Join our Forum](https://discord.gg/gh3Wke)
+- 🌍 [My website (in maintenance)][mywebsite]
+- 💬 [Join our Forum][hellocodingdiscordinvite]
 
 
 ### Languages and Tools I use:
@@ -31,6 +31,13 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [<img align="left" alt="Affinity" height="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Affinity_Photo_logo_new.png/220px-Affinity_Photo_logo_new.png" />][affinityweb]
 [<img align="left" alt="Photoshop" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" />][photoshopweb]
 [<img align="left" alt="Discord" height="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />][discordweb]
+
+[githubfollowershield]: https://img.shields.io/github/followers/uvulpos?label=GitHub%20Follower&logo=GitHub&logoColor=%23ffffff&style=flat-square
+[discordshield]: https://img.shields.io/discord/530141674463035402?label=HelloCoding%20Discord&logo=Discord&logoColor=%23ffffff&style=flat-square
+
+[mywebsite]: https://timriedl.com
+[githubprofile]: https://github.com/uvulpos/
+[hellocodingdiscordinvite]: https://discord.gg/gh3Wke
 
 [phpweb]: https://www.php.net/ 
 [mariadbwebweb]: https://mariadb.org/
