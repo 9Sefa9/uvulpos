@@ -1,5 +1,7 @@
 ### Hi there 👋
 # My name is Tim Riedl and I'm a professional Developer
+![GitHub followers](https://img.shields.io/github/followers/uvulpos?label=GitHub%20Follower&logo=GitHub&logoColor=%23ffffff&style=flat-square)
+![Discord](https://img.shields.io/discord/530141674463035402?label=HelloCoding%20Discord&logo=Discord&logoColor=%23ffffff&style=flat-square)
 
 In the last 10 years I have gained a lot of experience and now I want to start developing smaller open source projects. 
 
