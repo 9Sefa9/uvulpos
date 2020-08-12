@@ -54,7 +54,7 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 <!-- shields.io/ -->
 [githubfollowershield]: https://img.shields.io/github/followers/uvulpos?label=GitHub%20Follower&logo=GitHub&logoColor=%23ffffff&style=flat-square
 [discordshield]: https://img.shields.io/discord/530141674463035402?label=HelloCoding%20Discord&logo=Discord&logoColor=%23ffffff&style=flat-square
-[donatepaypalshield]: https://img.shields.io/static/v1?label=donate%20on&message=paypal&style=flat-square&logo=paypal&color=success
+[donatepaypalshield]: https://img.shields.io/static/v1?label=donate%20on&message=paypal&style=flat-square&logo=paypal&color=lightgrey
 
 <!-- other links -->
 [phpweb]: https://www.php.net/ 
