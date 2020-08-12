@@ -2,6 +2,7 @@
 # My name is Tim Riedl and I'm a professional Developer
 [![GitHub followers][githubfollowershield]][githubprofile]
 [![Discord][discordshield]][hellocodingdiscordinvite]
+[![Sonate on Paypal][donatepaypalshield]][donatepaypal]
 
 In the last 10 years I have gained a lot of experience and now I want to start developing smaller open source projects. I am open for any kind of cooperation if you want to start a project with me, just ask 😄
 
@@ -48,10 +49,12 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [githubprofile]: https://github.com/uvulpos/
 [githubgistweb]: https://gist.github.com/uvulpos
 [hellocodingdiscordinvite]: https://discord.gg/c3ryK7e
+[donatepaypal]: https://www.paypal.me/uvulpos
 
 <!-- shields.io/ -->
 [githubfollowershield]: https://img.shields.io/github/followers/uvulpos?label=GitHub%20Follower&logo=GitHub&logoColor=%23ffffff&style=flat-square
 [discordshield]: https://img.shields.io/discord/530141674463035402?label=HelloCoding%20Discord&logo=Discord&logoColor=%23ffffff&style=flat-square
+[donatepaypalshield]: https://img.shields.io/static/v1?label=donate%20on&message=paypal&style=flat-square&logo=paypal&color=success
 
 <!-- other links -->
 [phpweb]: https://www.php.net/ 
