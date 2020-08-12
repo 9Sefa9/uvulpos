@@ -37,7 +37,7 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 <!-- eigene Links -->
 [mywebsite]: https://timriedl.com
 [githubprofile]: https://github.com/uvulpos/
-[hellocodingdiscordinvite]: https://discord.gg/gh3Wke
+[hellocodingdiscordinvite]: https://discord.gg/c3ryK7e
 
 <!-- shields.io/ -->
 [githubfollowershield]: https://img.shields.io/github/followers/uvulpos?label=GitHub%20Follower&logo=GitHub&logoColor=%23ffffff&style=flat-square
