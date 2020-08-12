@@ -9,7 +9,7 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 - 💬 [Join our Forum][hellocodingdiscordinvite]
 
 
-### Languages and Tools I use:
+## Languages and Tools I use:
 
 [<img align="left" alt="PHP" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/php/php.svg" />][phpweb]
 [<img align="left" alt="MariaDB" height="26px" src="https://www.mvps.net/docs/wp-content/uploads/2019/02/MariaDB.png" />][mariadbwebweb]
@@ -36,7 +36,7 @@ In the last 10 years I have gained a lot of experience and now I want to start d
   <br><br>
 
 
-### Goals
+## Goals
 - [ ] once around the world
 - [ ] visit more public speaking
 - [ ] give a public speech yourself
