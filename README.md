@@ -40,7 +40,6 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 - [ ] once around the world
 - [ ] visit more public speaking
 - [ ] give a public speech yourself
-- [ ] give a public speech yourself
 - [ ] more co-develop for larger Open Source projects 
 
 <!-- eigene Links -->
