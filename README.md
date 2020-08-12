@@ -3,7 +3,7 @@
 [![GitHub followers][githubfollowershield]][githubprofile]
 [![Discord][discordshield]][hellocodingdiscordinvite]
 
-In the last 10 years I have gained a lot of experience and now I want to start developing smaller open source projects. 
+In the last 10 years I have gained a lot of experience and now I want to start developing smaller open source projects. I am open for any kind of cooperation if you want to start a project with me, just ask 😄
 
 - 🌍 [My website (in maintenance)][mywebsite]
 - 💬 [Join our Forum][hellocodingdiscordinvite]
@@ -33,6 +33,15 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [<img align="left" alt="Affinity" height="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Affinity_Photo_logo_new.png/220px-Affinity_Photo_logo_new.png" />][affinityweb]
 [<img align="left" alt="Photoshop" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" />][photoshopweb]
 [<img align="left" alt="Discord" height="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />][discordweb]
+
+---
+
+### Goals
+- [ ] once around the world
+- [ ] visit more public speaking
+- [ ] give a public speech yourself
+- [ ] give a public speech yourself
+- [ ] more co-develop for larger Open Source projects 
 
 <!-- eigene Links -->
 [mywebsite]: https://timriedl.com
