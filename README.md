@@ -44,6 +44,10 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 - [ ] give a public speech yourself
 - [ ] more co-develop for larger Open Source projects 
 
+<!-- ## Latest HelloCoding Articles -->
+<!-- HC::start -->
+<!-- HC::end -->
+
 <!-- eigene Links -->
 [mywebsite]: https://timriedl.com
 [githubprofile]: https://github.com/uvulpos/
