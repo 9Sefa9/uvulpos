@@ -8,6 +8,7 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 
 - 🌍 [My website (in maintenance)][mywebsite]
 - 💬 [Join our Forum][hellocodingdiscordinvite]
+- 🖨️ [HelloCoding-Bot][hellocodingbotrepo]
 - 📝 [My Gists][githubgistweb]
 
 ## Goals
@@ -50,6 +51,7 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [mywebsite]: https://timriedl.com
 [githubprofile]: https://github.com/uvulpos/
 [githubgistweb]: https://gist.github.com/uvulpos
+[hellocodingbotrepo]: https://github.com/hellocodingDE/hellocoding-bot
 [hellocodingdiscordinvite]: https://discord.gg/c3ryK7e
 [donatepaypal]: https://www.paypal.me/uvulpos
 
