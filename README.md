@@ -10,6 +10,7 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 - 💬 [Join our Forum][hellocodingdiscordinvite]
 - 🖨️ [HelloCoding-Bot][hellocodingbotrepo]
 - 📝 [My Gists][githubgistweb]
+- ❓ [My Stackoverflow Account](https://stackoverflow.com/users/14260868/uvulpos)
 
 ## Goals
 - [ ] once around the world
