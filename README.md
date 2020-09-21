@@ -49,7 +49,10 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [<img align="left" alt="PyCharm" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />][pycharmweb]
 [<img align="left" alt="Affinity" height="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Affinity_Photo_logo_new.png/220px-Affinity_Photo_logo_new.png" />][affinityweb]
 [<img align="left" alt="Photoshop" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" />][photoshopweb]
-[<img align="left" alt="Discord" height="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />][discordweb]
+[<img alt="Discord" height="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />][discordweb]
+  
+## Contact
+- [githubcontact@tim-riedl.de](mailto:githubcontact%40tim-riedl.de?subject=%5B%20Github%20%5D&body=hi%20tim%2C)
 
 <!-- eigene Links -->
 [mywebsite]: https://timriedl.com
