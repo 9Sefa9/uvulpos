@@ -52,7 +52,7 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [<img alt="Discord" height="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />][discordweb]
   
 ## Contact
-- [githubcontact@tim-riedl.de](mailto:githubcontact%40tim-riedl.de?subject=%5B%20Github%20%5D&body=hi%20tim%2C)
+- [githubcontact@tim-riedl.de](mailto:githubcontact%40tim-riedl.de?subject=%5B%20Github%20%5D&body=hi%20tim%2C) (reply normally within 24 hours)
 
 <!-- eigene Links -->
 [mywebsite]: https://timriedl.com
