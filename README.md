@@ -7,6 +7,7 @@
 In the last 10 years I have gained a lot of experience and now I want to start developing smaller open source projects. I am open for any kind of cooperation if you want to start a project with me, just ask 😄
 
 - 🌍 [My website (in maintenance)][mywebsite]
+- 📝 [HelloCoding Author Page (german)](https://hellocoding.de/autor/tim-riedl/)
 - 💬 [Join our Forum][hellocodingdiscordinvite]
 - 🖨️ [HelloCoding-Bot][hellocodingbotrepo]
 - 📝 [My Gists][githubgistweb]
