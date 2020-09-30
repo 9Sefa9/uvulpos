@@ -4,6 +4,7 @@
 # My name is Tim Riedl and I'm a professional Developer
 [![GitHub followers][githubfollowershield]][githubprofile]
 [![Discord][discordshield]][hellocodingdiscordinvite]
+[![HelloCoding][hellocodingarticlebadge]][hellocodingauthorpage]
 [![Sonate on Paypal][donatepaypalshield]][donatepaypal]
 
 In the last 10 years I have gained a lot of experience and now I want to start developing smaller open source projects. I am open for any kind of cooperation if you want to start a project with me, just ask 😄
@@ -91,11 +92,13 @@ Check out my [HelloCoding author page](https://hellocoding.de/autor/tim-riedl/ar
 [hellocodingorganization]: https://github.com/hellocodingDE
 [hellocodingdiscordinvite]: https://discord.gg/c3ryK7e
 [donatepaypal]: https://www.paypal.me/uvulpos
+[hellocodingauthorpage]: http://hellocoding.de/autor/tim-riedl/
 
 <!-- shields.io/ -->
 [githubfollowershield]: https://img.shields.io/github/followers/uvulpos?label=GitHub%20Follower&logo=GitHub&logoColor=%23ffffff&style=flat-square
 [discordshield]: https://img.shields.io/discord/530141674463035402?label=HelloCoding%20Discord&logo=Discord&logoColor=%23ffffff&style=flat-square
 [donatepaypalshield]: https://img.shields.io/static/v1?label=donate%20pizza%20and%20coffee%20over&message=paypal&style=flat-square&logo=paypal&color=lightgrey
+[hellocodingarticlebadge]: https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fhellocoding.de%2Fapi%2Fbadge%2Ftim-riedl
 
 <!-- other links -->
 [phpweb]: https://www.php.net/ 
