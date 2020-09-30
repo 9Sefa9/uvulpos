@@ -1,3 +1,5 @@
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uvulpos&show_icons=true" alt="uvulpos"></p> -->
+
 ### Hi there 👋
 # My name is Tim Riedl and I'm a professional Developer
 [![GitHub followers][githubfollowershield]][githubprofile]
@@ -49,6 +51,8 @@ Check out my [HelloCoding author page](https://hellocoding.de/autor/tim-riedl/ar
 <div>
   <h1 align="center">Languages and Tools I use:</h1>
 </div>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvulpos&layout=compact" alt="uvulpos"></p>
 
 [<img align="left" alt="PHP" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/php/php.svg" />][phpweb]
 [<img align="left" alt="MariaDB" height="26px" src="https://www.mvps.net/docs/wp-content/uploads/2019/02/MariaDB.png" />][mariadbwebweb]
