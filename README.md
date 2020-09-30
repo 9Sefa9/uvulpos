@@ -55,6 +55,7 @@ Check out my [HelloCoding author page]([hellocodingarchive])
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvulpos&layout=compact" alt="uvulpos"></p>
 
+<!--
 [<img align="left" alt="PHP" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/php/php.svg" />][phpweb]
 [<img align="left" alt="MariaDB" height="26px" src="https://www.mvps.net/docs/wp-content/uploads/2019/02/MariaDB.png" />][mariadbwebweb]
 [<img align="left" alt="HTML" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.svg" />][htmlweb]
@@ -77,7 +78,7 @@ Check out my [HelloCoding author page]([hellocodingarchive])
 [<img align="left" alt="Affinity" height="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Affinity_Photo_logo_new.png/220px-Affinity_Photo_logo_new.png" />][affinityweb]
 [<img align="left" alt="Photoshop" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" />][photoshopweb]
 [<img alt="Discord" height="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />][discordweb]
-
+-->
 
 <div>
   <h1 align="center">Contact</h1>
