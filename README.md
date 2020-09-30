@@ -10,9 +10,9 @@
 In the last 10 years I have gained a lot of experience and now I want to start developing smaller open source projects. I am open for any kind of cooperation if you want to start a project with me, just ask 😄
 
 - 🌍 [My website (in maintenance)][mywebsite]
-- 📝 [HelloCoding Author Page (german)](https://hellocoding.de/autor/tim-riedl/)
+- 📝 [HelloCoding Author Page (german)]([hellocodingauthorpage])
 - 🖨️ [HelloCoding-Bot][hellocodingbotrepo]
-- ❓ [My Stackoverflow Account](https://stackoverflow.com/users/14260868/uvulpos)
+- ❓ [My Stackoverflow Account]([stackoverflowpage])
 
 <div>
   <h1 align="center">Goals</h1>
@@ -40,7 +40,7 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 |4| **Zeit und Datum in PHP - Wie gehst du damit richtig um?** <br> In diesem Artikel zeige ich dir wie du in PHP richtig mit Zeit und Datum umgehst, um Tage bis zu einem Ereignis zu berechnen, oder Zeiten aus verschieden Formaten zu konvertieren. <br><br> [read article](https://hellocoding.de/blog/coding-language/php/datum-zeit-funktionen) |
 |5| **Zeit und Datum in PHP - Wie gehst du damit richtig um?** <br> In diesem Artikel zeige ich dir wie du in PHP richtig mit Zeit und Datum umgehst, um Tage bis zu einem Ereignis zu berechnen, oder Zeiten aus verschieden Formaten zu konvertieren. <br><br> [read article](https://hellocoding.de/blog/coding-language/php/datum-zeit-funktionen) |
 <!-- HC::end -->
-Check out my [HelloCoding author page](https://hellocoding.de/autor/tim-riedl/archive/)
+Check out my [HelloCoding author page]([hellocodingarchive])
 
 <div>
   <h1 align="center">Organizations</h1>
@@ -93,12 +93,17 @@ Check out my [HelloCoding author page](https://hellocoding.de/autor/tim-riedl/ar
 [hellocodingdiscordinvite]: https://discord.gg/c3ryK7e
 [donatepaypal]: https://www.paypal.me/uvulpos
 [hellocodingauthorpage]: http://hellocoding.de/autor/tim-riedl/
+[hellocodingarchive]: https://hellocoding.de/autor/tim-riedl/archive/
+[stackoverflowpage]: https://stackoverflow.com/users/14260868/uvulpos
 
 <!-- shields.io/ -->
 [githubfollowershield]: https://img.shields.io/github/followers/uvulpos?label=GitHub%20Follower&logo=GitHub&logoColor=%23ffffff&style=flat-square
 [discordshield]: https://img.shields.io/discord/530141674463035402?label=HelloCoding%20Discord&logo=Discord&logoColor=%23ffffff&style=flat-square
 [donatepaypalshield]: https://img.shields.io/static/v1?label=donate%20pizza%20and%20coffee%20over&message=paypal&style=flat-square&logo=paypal&color=lightgrey
 [hellocodingarticlebadge]: https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fhellocoding.de%2Fapi%2Fbadge%2Ftim-riedl
+
+<!-- extern shields -->
+[toplanguagebadge]: https://github-readme-stats.vercel.app/api/top-langs/?username=uvulpos&layout=compact
 
 <!-- other links -->
 [phpweb]: https://www.php.net/ 
