@@ -21,7 +21,6 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 - [ ] more co-develop for larger Open Source projects 
 
 <!-- ## Latest HelloCoding Articles -->
-<!-- HC::start -->
 
 <div>
   <h1 align="center">IT-Articles</h1>
