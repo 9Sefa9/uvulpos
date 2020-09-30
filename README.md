@@ -77,12 +77,16 @@ Check out my [HelloCoding author page]([hellocodingarchive])
 [<img align="left" alt="Affinity" height="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Affinity_Photo_logo_new.png/220px-Affinity_Photo_logo_new.png" />][affinityweb]
 [<img align="left" alt="Photoshop" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" />][photoshopweb]
 [<img alt="Discord" height="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />][discordweb]
-  
+
+
 <div>
   <h1 align="center">Contact</h1>
 </div>
 
-- [githubcontact@tim-riedl.de](mailto:githubcontact%40tim-riedl.de?subject=%5B%20Github%20%5D&body=hi%20tim%2C) (reply normally within 24 hours)
+<p align="center">
+  <a href="mailto:githubcontact%40tim-riedl.de?subject=%5B%20Github%20%5D&body=hi%20tim%2C">githubcontact@tim-riedl.de</a><br>
+  reply normally within 24 hours
+</p>
 
 <!-- eigene Links -->
 [mywebsite]: https://timriedl.com
