@@ -11,7 +11,10 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 - 🖨️ [HelloCoding-Bot][hellocodingbotrepo]
 - ❓ [My Stackoverflow Account](https://stackoverflow.com/users/14260868/uvulpos)
 
-## Goals
+<div>
+  <h1 align="center">Goals</h1>
+</div>
+
 - [ ] once around the world
 - [ ] visit more public speaking
 - [ ] give a public speech by myself
@@ -19,13 +22,34 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 
 <!-- ## Latest HelloCoding Articles -->
 <!-- HC::start -->
-<!-- HC::end -->
 
-## Organizations
+<div>
+  <h1 align="center">IT-Articles</h1>
+</div>
+
+.* work in process
+
+<!-- HC::start -->
+| | Newest Articles |
+|-|----------|
+|1| **Zeit und Datum in PHP - Wie gehst du damit richtig um?** <br> In diesem Artikel zeige ich dir wie du in PHP richtig mit Zeit und Datum umgehst, um Tage bis zu einem Ereignis zu berechnen, oder Zeiten aus verschieden Formaten zu konvertieren. <br><br> [read article](https://hellocoding.de/blog/coding-language/php/datum-zeit-funktionen) |
+|2| **Zeit und Datum in PHP - Wie gehst du damit richtig um?** <br> In diesem Artikel zeige ich dir wie du in PHP richtig mit Zeit und Datum umgehst, um Tage bis zu einem Ereignis zu berechnen, oder Zeiten aus verschieden Formaten zu konvertieren. <br><br> [read article](https://hellocoding.de/blog/coding-language/php/datum-zeit-funktionen) |
+|3| **Zeit und Datum in PHP - Wie gehst du damit richtig um?** <br> In diesem Artikel zeige ich dir wie du in PHP richtig mit Zeit und Datum umgehst, um Tage bis zu einem Ereignis zu berechnen, oder Zeiten aus verschieden Formaten zu konvertieren. <br><br> [read article](https://hellocoding.de/blog/coding-language/php/datum-zeit-funktionen) |
+|4| **Zeit und Datum in PHP - Wie gehst du damit richtig um?** <br> In diesem Artikel zeige ich dir wie du in PHP richtig mit Zeit und Datum umgehst, um Tage bis zu einem Ereignis zu berechnen, oder Zeiten aus verschieden Formaten zu konvertieren. <br><br> [read article](https://hellocoding.de/blog/coding-language/php/datum-zeit-funktionen) |
+|5| **Zeit und Datum in PHP - Wie gehst du damit richtig um?** <br> In diesem Artikel zeige ich dir wie du in PHP richtig mit Zeit und Datum umgehst, um Tage bis zu einem Ereignis zu berechnen, oder Zeiten aus verschieden Formaten zu konvertieren. <br><br> [read article](https://hellocoding.de/blog/coding-language/php/datum-zeit-funktionen) |
+<!-- HC::end -->
+Check out my [HelloCoding author page](https://hellocoding.de/autor/tim-riedl/archive/)
+
+<div>
+  <h1 align="center">Organizations</h1>
+</div>
+
 [<img align="left" alt="PHP" height="26px" src="https://avatars0.githubusercontent.com/u/69871402?s=200&v=4" />][hellocodingorganization]
 <br>
 
-## Languages and Tools I use:
+<div>
+  <h1 align="center">Languages and Tools I use:</h1>
+</div>
 
 [<img align="left" alt="PHP" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/php/php.svg" />][phpweb]
 [<img align="left" alt="MariaDB" height="26px" src="https://www.mvps.net/docs/wp-content/uploads/2019/02/MariaDB.png" />][mariadbwebweb]
@@ -50,7 +74,10 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 [<img align="left" alt="Photoshop" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" />][photoshopweb]
 [<img alt="Discord" height="26px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />][discordweb]
   
-## Contact
+<div>
+  <h1 align="center">Contact</h1>
+</div>
+
 - [githubcontact@tim-riedl.de](mailto:githubcontact%40tim-riedl.de?subject=%5B%20Github%20%5D&body=hi%20tim%2C) (reply normally within 24 hours)
 
 <!-- eigene Links -->
