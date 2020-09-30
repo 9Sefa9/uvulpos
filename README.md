@@ -26,7 +26,7 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 <!-- ## Latest HelloCoding Articles -->
 
 <div>
-  <h1 align="center">IT-Articles</h1>
+  <h1 align="center">IT-Articles (german)</h1>
 </div>
 
 .* work in process
