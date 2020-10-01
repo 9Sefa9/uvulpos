@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<h1 align="center">My name is Tim Riedl and I'm a professional Developer</h1>
+<h1 align="center">My name is Tim Riedl and I'm a professional developer</h1>
 
 [![GitHub followers][githubfollowershield]][githubprofile]
 [![Discord][discordshield]][hellocodingdiscordinvite]
@@ -22,8 +22,6 @@
 - [ ] give a public speech by myself
 - [ ] more co-develop for larger Open Source projects 
 
-<!-- ## Latest HelloCoding Articles -->
-
 <div>
   <h1 align="center">IT-Articles (german)</h1>
 </div>
@@ -35,7 +33,7 @@
 </p>
 
 <div>
-  <h1 align="center">Languages and Tools I use:</h1>
+  <h1 align="center">Languages and tools I use:</h1>
 </div>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvulpos&layout=compact" alt="uvulpos"></p>
