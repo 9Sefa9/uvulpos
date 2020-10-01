@@ -40,7 +40,9 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 |4| **Zeit und Datum in PHP - Wie gehst du damit richtig um?** <br> In diesem Artikel zeige ich dir wie du in PHP richtig mit Zeit und Datum umgehst, um Tage bis zu einem Ereignis zu berechnen, oder Zeiten aus verschieden Formaten zu konvertieren. <br><br> [read article](https://hellocoding.de/blog/coding-language/php/datum-zeit-funktionen) |
 |5| **Zeit und Datum in PHP - Wie gehst du damit richtig um?** <br> In diesem Artikel zeige ich dir wie du in PHP richtig mit Zeit und Datum umgehst, um Tage bis zu einem Ereignis zu berechnen, oder Zeiten aus verschieden Formaten zu konvertieren. <br><br> [read article](https://hellocoding.de/blog/coding-language/php/datum-zeit-funktionen) |
 <!-- HC::end -->
-Check out my [HelloCoding author page]([hellocodingarchive])
+<p align="center">
+  Check out my <a href="https://hellocoding.de/autor/tim-riedl/archive/">HelloCoding author page</a>
+</p>
 
 <div>
   <h1 align="center">Languages and Tools I use:</h1>
