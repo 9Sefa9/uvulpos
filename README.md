@@ -1,13 +1,13 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uvulpos&show_icons=true" alt="uvulpos"></p> -->
 
 ### Hi there 👋
-# My name is Tim Riedl and I'm a professional Developer
+
+<h1 align="center">My name is Tim Riedl and I'm a professional Developer</h1>
+
 [![GitHub followers][githubfollowershield]][githubprofile]
 [![Discord][discordshield]][hellocodingdiscordinvite]
 [![HelloCoding][hellocodingarticlebadge]][hellocodingauthorpage]
 [![Sonate on Paypal][donatepaypalshield]][donatepaypal]
-
-In the last 10 years I have gained a lot of experience and now I want to start developing smaller open source projects. I am open for any kind of cooperation if you want to start a project with me, just ask 😄
 
 - 🌍 [My website (in maintenance)][mywebsite]
 - 📝 [HelloCoding Author Page (german)]([hellocodingauthorpage])
@@ -18,7 +18,6 @@ In the last 10 years I have gained a lot of experience and now I want to start d
   <h1 align="center">Goals</h1>
 </div>
 
-- [ ] once around the world
 - [ ] visit more public speaking
 - [ ] give a public speech by myself
 - [ ] more co-develop for larger Open Source projects 
