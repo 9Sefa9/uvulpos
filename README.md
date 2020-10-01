@@ -10,7 +10,7 @@
 [![Sonate on Paypal][donatepaypalshield]][donatepaypal]
 
 - 🌍 [My website (in maintenance)][mywebsite]
-- 📝 [HelloCoding Author Page (german)]([hellocodingauthorpage])
+- 📝 [HelloCoding Author Page (german)][hellocodingauthorpage]
 - 🖨️ [HelloCoding-Bot][hellocodingbotrepo]
 - ❓ [My Stackoverflow Account][stackoverflowpage]
 
