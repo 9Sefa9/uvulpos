@@ -43,13 +43,6 @@ In the last 10 years I have gained a lot of experience and now I want to start d
 Check out my [HelloCoding author page]([hellocodingarchive])
 
 <div>
-  <h1 align="center">Organizations</h1>
-</div>
-
-[<img align="left" alt="PHP" height="26px" src="https://avatars0.githubusercontent.com/u/69871402?s=200&v=4" />][hellocodingorganization]
-<br>
-
-<div>
   <h1 align="center">Languages and Tools I use:</h1>
 </div>
 
