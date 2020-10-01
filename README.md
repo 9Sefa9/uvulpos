@@ -40,7 +40,7 @@
 </p>
 
 <div>
-  <h1 align="center">Languages and Tools I use:</h1>
+  <h1 align="center">Languages and tools I use:</h1>
 </div>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvulpos&layout=compact" alt="uvulpos"></p>
