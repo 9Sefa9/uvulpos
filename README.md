@@ -30,7 +30,7 @@
 
 | | Newest Articles |
 |-|----------|
-|1| **Zeit und Datum in PHP - Wie gehst du damit richtig um? ** <br>In diesem Artikel zeige ich dir wie du in PHP richtig mit Zeit und Datum umgehst, um Tage bis zu einem Ereignis zu berechnen, oder Zeiten aus verschieden Formaten zu konvertieren. <br><br> [read article](https://hellocoding.de/blog/coding-language/php/datum-zeit-funktionen) |
+|1| **Zeit und Datum in PHP - Wie gehst du damit richtig um?** <br>In diesem Artikel zeige ich dir wie du in PHP richtig mit Zeit und Datum umgehst, um Tage bis zu einem Ereignis zu berechnen, oder Zeiten aus verschieden Formaten zu konvertieren. <br><br> [read article](https://hellocoding.de/blog/coding-language/php/datum-zeit-funktionen) |
 |2| **E-Mails mit Hilfe des PHPMailers versenden** <br>Der PHPMailer bietet eine einfache Möglichkeit eine Verbindung zu einem Mail Server mittels PHP herzustellen. Und so Emails zu Versenden.<br><br> [read article](https://hellocoding.de/blog/coding-language/php/phpmailer-email-senden) |
 |3| **SQL-Datenbanken - Ein Einstieg für Anfänger** <br>Riesige Datenmengen lassen sich ganz einfach mit Datenbanken verwalten. Wie man diese benutzt zeige ich dir in diesem Artikel!<br><br> [read article](https://hellocoding.de/blog/coding-language/sql/datenbanken-sql-einstieg-anfaenger) |
 
