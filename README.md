@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<h1 align="center">My name is Tim Riedl and I'm a professional Developer</h1>
+<h1 align="center">My name is Tim Riedl and I'm a professional developer</h1>
 
 [![GitHub followers][githubfollowershield]][githubprofile]
 [![Discord][discordshield]][hellocodingdiscordinvite]
