@@ -22,23 +22,6 @@
 - [ ] give a public speech by myself
 - [ ] more co-develop for larger Open Source projects 
 
-<!-- ## Latest HelloCoding Articles -->
-
-<div>
-  <h1 align="center">IT-Articles (german)</h1>
-</div>
-
-| | Newest Articles |
-|-|----------|
-|1| **Zeit und Datum in PHP - Wie gehst du damit richtig um?** <br> [read article](https://hellocoding.de/blog/coding-language/php/datum-zeit-funktionen) |
-|2| **E-Mails mit Hilfe des PHPMailers versenden** <br> [read article](https://hellocoding.de/blog/coding-language/php/phpmailer-email-senden) |
-|3| **SQL-Datenbanken - Ein Einstieg für Anfänger** <br> [read article](https://hellocoding.de/blog/coding-language/sql/datenbanken-sql-einstieg-anfaenger) |
-
-
-<p align="center">
-  Check out my <a href="https://hellocoding.de/autor/tim-riedl/archive/">HelloCoding author page</a>
-</p>
-
 <div>
   <h1 align="center">Languages and tools I use:</h1>
 </div>
