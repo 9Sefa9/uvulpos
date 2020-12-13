@@ -11,8 +11,6 @@
 
 - 🌍 [My website (in maintenance)][mywebsite]
 - 📝 [HelloCoding Author Page (german)][hellocodingauthorpage]
-- 🖨️ [HelloCoding-Bot][hellocodingbotrepo]
-- ❓ [My Stackoverflow Account][stackoverflowpage]
 
 <div>
   <h1 align="center">Goals</h1>
